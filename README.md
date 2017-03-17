@@ -3,8 +3,8 @@ Doug Lea's Computer Networking Course (CSC 445)
 
 ## Topics Covered
 
-Network Structure and Implementation
-Layered Systems
+* Network Structure and Implementation
+* Layered Systems
 Point-to-Point and shared media
 Switching
 Internetworking
