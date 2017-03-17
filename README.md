@@ -1,5 +1,6 @@
 # CSC-445
 Doug Lea's Computer Networking Course (CSC 445)
+http://gee.cs.oswego.edu/dl/csc445/
 
 ## Topics Covered
 
