@@ -2,6 +2,8 @@
 Doug Lea's Computer Networking Course (CSC 445)
 http://gee.cs.oswego.edu/dl/csc445/
 
+Scroll down for descriptions of my completed assignments.
+
 ## Topics Covered
 
 * Network Structure and Implementation
