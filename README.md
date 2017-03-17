@@ -19,7 +19,7 @@ Doug Lea's Computer Networking Course (CSC 445)
 * Group communication
 * Frameworks: CORBA, Jini, etc
 
-## Assignment 3
+## Assignment 3: Distributed Systems
 
 ## Assignment 2
 
